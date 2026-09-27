@@ -1,0 +1,8 @@
+langchain
+langchain-classic
+wikipedia
+langchain-community
+langchain_google_genai
+python-dotenv
+pydantic
+duckduckgo-search
